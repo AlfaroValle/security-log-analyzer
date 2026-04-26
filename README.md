@@ -25,7 +25,7 @@ The goal is to improve efficiency in cybersecurity workflows by reducing manual 
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 security-log-analyzer/
 │── logs/ # Sample log files
@@ -40,7 +40,7 @@ security-log-analyzer/
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the Repository
 ```bash
